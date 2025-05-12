@@ -1,7 +1,7 @@
 
-## ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦
+
 ## autor = Carlos Adrian
-## ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦
+
 
 intro=('¸,ø¤º°`°º¤ø,¸¸,ø¤º°¸,ø¤º°`°º¤ø,¸¸,ø¤º°\n'
        'Por favor, selecione o seu programa.\n'
@@ -22,9 +22,8 @@ start=int(input(start))
 print(linha)
 print('\n\n')
 print('◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇')
-## ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦
+
 ## 1 - duplo crescente
-## ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦
 
 
 if start == 1:
@@ -37,9 +36,9 @@ if start == 1:
         print(f'＞＞＞  {numero1}  ＞＞＞  {numero2}  ＞＞＞')
         print('◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇')
 
-## ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦
+
 ## 2 - Maior dos três
-## ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦
+
 
 if start == 2:
     numero1=float(input('Selecione o primeiro número.'))
@@ -60,9 +59,8 @@ if start == 2:
             print(numero3)
             print('◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇')
 
-## ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦
 ## 3 - Maior dos três com operadores
-## ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦
+
 
 
 if start == 3:
@@ -80,9 +78,9 @@ if start == 3:
         print(numero3)
         print('◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇')
 
-## ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦
+
 ## 4 - calculadora
-## ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦
+
 
 if start == 4:
 
@@ -132,9 +130,9 @@ if start == 4:
         print(linha)
 
 
-## ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦
+
 ## 5 - Triângulo
-## ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦
+
 
 if start == 5:
     linha='◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥'
@@ -164,8 +162,3 @@ if start == 5:
 ##
 ## Fim
 ##
-
-print('Obrigado por usar o meu programa!')
-print(r"""
-(⸝⸝> ᴗ•⸝⸝)
-""")
